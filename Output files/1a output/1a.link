@@ -1,0 +1,3 @@
+JMP 4
+DB 5
+HLT
